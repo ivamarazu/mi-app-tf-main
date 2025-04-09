@@ -1,4 +1,4 @@
-name: "Terraform composite"
+name: "Destroy (v3) Terraform to AWS"
 
 on:
   workflow_dispatch:

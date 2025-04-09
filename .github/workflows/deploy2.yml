@@ -1,4 +1,4 @@
-name: "Terraform"
+name: "Deploy (v2) Terraform to AWS"
 
 on:
   workflow_dispatch:
